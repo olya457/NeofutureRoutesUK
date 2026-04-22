@@ -1,0 +1,32 @@
+export const AppAssets = {
+  logo: require('./icon512.png'),
+  zones: {
+    jodrell_bank: require('./jodrell_bank.png'),
+    harwell: require('./harwell.png'),
+    diamond: require('./diamond.png'),
+    rutherford: require('./rutherford.png'),
+    culham: require('./culham.png'),
+    drax: require('./drax.png'),
+    hinkley: require('./hinkley.png'),
+    dinorwig: require('./dinorwig.png'),
+    hornsea: require('./hornsea.png'),
+    sizewell: require('./sizewell.png'),
+    thames: require('./thames.png'),
+    crossrail: require('./crossrail.png'),
+    hs2: require('./hs2.png'),
+    severn_bridge: require('./severn_bridge.png'),
+    channel_tunnel: require('./channel_tunnel.png'),
+    canary_wharf: require('./canary_wharf.png'),
+    kings_cross: require('./kings_cross.png'),
+    media_city: require('./media_city.png'),
+    cambridge: require('./cambridge.png'),
+    bristol: require('./bristol.png'),
+    churchill: require('./churchill.png'),
+    burlington: require('./burlington.png'),
+    london_tunnels: require('./london_tunnels.png'),
+    mail_rail: require('./mail_rail.png'),
+    dover: require('./dover.png'),
+  },
+};
+
+export type ZoneImageKey = keyof typeof AppAssets.zones;
