@@ -1,4 +1,4 @@
-package com.neofutureroutesuk
+package com.neofuture.routesuk
 
 import android.app.Application
 import com.facebook.react.PackageList
