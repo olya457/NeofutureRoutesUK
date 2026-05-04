@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.neofuture.routesuk"
+    namespace "com.coresystemsuk"
     defaultConfig {
-        applicationId "com.neofuture.routesuk"
+        applicationId "com.coresystemsuk"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

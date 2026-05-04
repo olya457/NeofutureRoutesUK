@@ -1,4 +1,4 @@
-package com.neofuture.routesuk
+package com.coresystemsuk
 
 import android.app.Application
 import com.facebook.react.PackageList

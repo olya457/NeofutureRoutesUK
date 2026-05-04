@@ -1,6 +1,6 @@
 export const Colors = {
-  bgRoot: '#050814',
-  bgGradientStart: '#0A1026',
+  bgRoot: '#626365ff',
+  bgGradientStart: '#8b8b90ff',
   bgGradientMid: '#0D1835',
   bgGradientEnd: '#05091A',
 

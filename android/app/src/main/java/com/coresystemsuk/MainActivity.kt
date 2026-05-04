@@ -1,4 +1,4 @@
-package com.neofuture.routesuk
+package com.coresystemsuk
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
