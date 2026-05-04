@@ -90,7 +90,7 @@ export function QuizResultScreen() {
           />
           <SecondaryButton
             label="Back to Signal Check"
-            onPress={() => navigation.navigate('Main')}
+            onPress={() => navigation.navigate('Main', { screen: 'SignalCheck' })}
           />
         </View>
       </View>
